@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=rayiik-new
+Description=info-sec-themed-plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/rayiik-new/animation
+ScriptFile=/usr/share/plymouth/themes/rayiik-new/animated-boot.script
